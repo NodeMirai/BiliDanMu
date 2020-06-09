@@ -1,4 +1,4 @@
-import { IDanMu } from "../component/danmu";
+import { IDanMu } from "../component/danmuArea/component/danmu";
 import pako from 'pako';
 
 const textEncoder = new TextEncoder();

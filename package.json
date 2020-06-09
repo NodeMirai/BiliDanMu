@@ -12,10 +12,12 @@
     "@types/pako": "^1.0.1",
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
+    "normalize.css": "^8.0.1",
     "pako": "^1.0.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "source-map-support": "^0.5.16"
+    "source-map-support": "^0.5.16",
+    "three": "^0.117.1"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.10.1",
@@ -23,6 +25,10 @@
     "electron-builder": "^22.4.1",
     "electron-webpack": "^2.8.2",
     "electron-webpack-ts": "^4.0.1",
+    "less": "^3.11.3",
+    "less-loader": "^6.1.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
     "typescript": "^3.9.5",
     "webpack": "~4.42.1"
   }
